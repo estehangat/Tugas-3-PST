@@ -85,4 +85,4 @@ Semua Merah (Default)
 
 ## Simulasi Tinkercad
 
-🔗 Link simulasi: **[https://www.tinkercad.com/things/cWEh6bXuNaZ/editel?sharecode=NqfmEAbEjuPbohAAS_vyRQFNrjc1hCUeWsBq5T1uOr0]**
+Link simulasi: **[https://www.tinkercad.com/things/cWEh6bXuNaZ/editel?sharecode=NqfmEAbEjuPbohAAS_vyRQFNrjc1hCUeWsBq5T1uOr0]**
