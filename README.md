@@ -47,7 +47,7 @@ Pin Digital Arduino → Resistor 220Ω → Anoda LED (+) → Katoda LED (−) �
 
 ---
 
-## ⏱️ Aturan Waktu Sistem
+## Aturan Waktu Sistem
 
 | Kondisi Lampu | Durasi |
 |---------------|--------|
@@ -58,7 +58,7 @@ Pin Digital Arduino → Resistor 220Ω → Anoda LED (+) → Katoda LED (−) �
 
 ---
 
-## 🔄 Alur Kerja Sistem
+## Alur Kerja Sistem
 
 ```
 [START]
@@ -83,6 +83,6 @@ Semua Merah (Default)
 
 ---
 
-## 🖥️ Simulasi Tinkercad
+## Simulasi Tinkercad
 
-> 🔗 Link simulasi: **[https://www.tinkercad.com/things/cWEh6bXuNaZ/editel?sharecode=NqfmEAbEjuPbohAAS_vyRQFNrjc1hCUeWsBq5T1uOr0]**
+🔗 Link simulasi: **[https://www.tinkercad.com/things/cWEh6bXuNaZ/editel?sharecode=NqfmEAbEjuPbohAAS_vyRQFNrjc1hCUeWsBq5T1uOr0]**
